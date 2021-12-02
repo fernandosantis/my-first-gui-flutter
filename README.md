@@ -1,16 +1,24 @@
-# montagemgui
+# Meu primeiro Gui
 
-A new Flutter project.
+## DPM - Princípios de desenv. de prog. para disp. móveis
 
-## Getting Started
+### Exercício: Montagem de uma GUI
 
-This project is a starting point for a Flutter application.
+[]<img src="images/Screenshot_1638468579.png" style="zoom:33%;" />
 
-A few resources to get you started if this is your first Flutter project:
+## Orientações
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+1. Não precisa ter nenhuma funcionalidade (a idéia é só exercitar a montagem da GUI)
+2. Pode usar quaisquer recursos que você quiser
+3. Além do que vimos nas aulas, usei:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- TextField (com InputDecoration)
+- Spacer
+- Pesquise!!!!
+
+Pode usar uma função vazia na propriedade:
+
+```
+ onPressed (){}
+```
+
