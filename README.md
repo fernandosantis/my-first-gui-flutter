@@ -6,7 +6,7 @@
 
 
 
-[]<img src="images/Screenshot_1638468579.png" style="zoom:33%;" />
+[]<img src="images/Screenshot_1638468579.png" style="widht:50%;" />
 
 ## Orientações
 
